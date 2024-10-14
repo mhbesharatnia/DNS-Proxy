@@ -1,0 +1,4 @@
+*.gitlab.com
+*.docker.io
+*.docker.com
+*.nodejs.org
